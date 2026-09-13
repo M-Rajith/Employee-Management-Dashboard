@@ -8,6 +8,15 @@
 
 A full-stack HR workforce platform: a glassmorphism-style React dashboard backed by a **Spring Boot 3 modular monolith** and **MySQL**. Search, filter and paginate employees, approve leave requests in real time, open a dynamically-generated "Work Snapshot" for any employee, and watch every KPI, chart and feed update reactively — no page reloads.
 
+## Live Demo
+
+🚀 **Live Application:**  
+https://frontend-aycvg6if8-rajith5.vercel.app/
+
+The frontend is deployed on Vercel and connected to the deployed Spring Boot backend for a functional end-to-end experience.
+
+> **Note:** The demo uses the project's seeded development data, so the dashboard loads with sample employee and workforce records for evaluation.
+
 ![Architecture](docs/architecture.png)
 
 ## Screenshots
