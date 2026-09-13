@@ -12,11 +12,17 @@ A full-stack HR workforce platform: a glassmorphism-style React dashboard backed
 
 ## Screenshots
 
-| Dashboard | Employee Directory |
-|---|---|
-| *KPIs, attendance chart, department distribution* | *Search, filters, pagination, Work Snapshot drawer* |
+### Dashboard
 
-> Run it in 2 minutes (below) and drop your own screenshots into `docs/screenshots/`.
+![PeopleOS Dashboard](docs/screenshots/dashboard.png)
+
+### Employee Directory
+
+![Employee Directory](docs/screenshots/employee-directory.png)
+
+### Work Snapshot
+
+![Employee Work Snapshot](docs/screenshots/work-snapshot.png)
 
 ## Feature highlights
 
